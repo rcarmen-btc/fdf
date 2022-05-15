@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"mlx.h": "c",
+		"libft.h": "c",
+		"main.h": "c",
+		"stdio.h": "c",
+		"limits": "c",
+		"stdlib.h": "c",
+		"fcntl.h": "c"
+	}
+}
